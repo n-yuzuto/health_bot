@@ -75,7 +75,7 @@ responses:
   - text: |-
       Thank you so much for answering my question! 
       You can ask me how to improve your stress level, diet, etc. If you are interested, just ask me :) 
-       Here's your daily wellness log: 
+      Here's your daily wellness log: 
        - Exercised?: {confirm_exercise}
        - Type of exercise: {exercise}
        - Sleep: {sleep}

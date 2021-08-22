@@ -20,7 +20,6 @@ import os
 
 # def create_health_log(confirm_exercise,exercise,sleep, diet, stress, goal):
 #     request_url=f"https://api.airtable.com/v0/{base_id}/{table_name}"
-#     request_url="https://api.airtable.com/v0/app7oeRhjmSZPI2wg/Table%201"
 #     headers = {
 #         "Content-Type": "application/json",
 #         "Accept": "application/json",
